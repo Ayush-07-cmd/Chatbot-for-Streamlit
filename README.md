@@ -1,0 +1,1 @@
+This project is an interactive and fun chatbot built using Streamlit and NLTK. It allows users to engage with a chatbot that responds with pre-defined answers based on their input. The bot can handle a variety of common conversational topics, including greetings, farewells, sentiment analysis, and more.
